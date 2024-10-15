@@ -1,0 +1,5 @@
+to init
+go mod init github.com/wongzc/go-scraper
+
+to get package
+go get "github.com/PuerkitoBio/goquery"
